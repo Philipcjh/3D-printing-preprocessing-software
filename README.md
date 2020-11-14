@@ -12,10 +12,10 @@ Instruction
 Function
 -------  
 halfedge_generate.m
-------- ------- 
+------- 
 This MATLAB function aims at rapidly transforming the triangular facets information to halfedge data structure. 
 
 slice_stl_create_path_ycut.m & plot_slices_3D.m
-------- ------- -
+------- 
 The slicing algorithm is referred to [wtzzclk/FDM_3D_Printing_Slice_Algorithm](https://github.com/wtzzclk/FDM_3D_Printing_Slice_Algorithm ). 
 I solved the problem that the contours of slice would be connected by extra lines if there are more than 2 close contours. 
