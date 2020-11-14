@@ -2,12 +2,14 @@
 ====  
 Instruction
 -------  
-
 1.Run printing.m and input the name of the data.
+
 ![](https://github.com/Philipcjh/3D-printing-preprocessing-software/blob/main/ins1.png)
 2. Then rotate the model to the angel need to be printed and set the threshold of angel as judgement for generating support. (You need to wait for some time because there is no optimization for the supporting algorithm)
+
 ![](https://github.com/Philipcjh/3D-printing-preprocessing-software/blob/main/ins2.png)
 3. Pull the slide and then you can see the slice of the model and support structure when the printer prints to the corresponding height.
+
 ![](https://github.com/Philipcjh/3D-printing-preprocessing-software/blob/main/ins3.png)
 Function
 -------  
